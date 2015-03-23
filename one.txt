@@ -1,5 +1,11 @@
 abc
 abc1
 
+<<<<<<< HEAD
 
 Bhaiya ye to hotfix hai
+=======
+I hadded a footer he he
+
+Bhaiya hum to fir se add na karenge 
+>>>>>>> iss53
